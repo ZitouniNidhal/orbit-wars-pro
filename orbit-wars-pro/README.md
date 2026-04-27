@@ -73,25 +73,3 @@ orbit-wars-pro/
 └── tests/                     # Unit tests
 ```
 
-## Competition Timeline
-
-| Date | Event |
-|------|-------|
-| April 16, 2026 | Start Date |
-| June 16, 2026 | Entry Deadline |
-| June 23, 2026 | Final Submission |
-| July 8, 2026 | Final Evaluation Complete |
-
-## Prizes
-
-- **1st-10th Place**: $5,000 each
-- **Total Prize Pool**: $50,000
-
-## License
-
-MIT License - Free to use and modify for the competition.
-
----
-
-**Author**: MiniMax Agent
-**Version**: 1.0.0
